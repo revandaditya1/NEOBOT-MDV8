@@ -27,7 +27,7 @@
     "displayTextMenu4": "donasi",
     "displayTextMenu5": "dashboard",
     "limitCount": 100,
-    "limitGame": 35,
+    "limitGame": 1000,
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
